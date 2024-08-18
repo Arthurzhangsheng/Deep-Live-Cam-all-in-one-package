@@ -1,5 +1,22 @@
 # Deep-Live-Cam-all-in-one-package环境整合包
-Deep-Live-Cam-all-in-one-package
+Windows 免环境安装整合包  
+Windows Portable Installation Package  
+
+![img](demo.gif)
+
+# 下载链接
+
+**Windows 环境整合包下载地址：**  
+[下载链接](https://pan.baidu.com/s/1GmFBm3NXDN-rXTbACy74kg?pwd=u98q)  
+**提取码：** u98q
+
+直接解压，双击启动 `.exe` 即可使用。
+
+### 硬件要求
+
+需有支持 CUDA 的 NVIDIA 显卡。
+
+如果硬件不符合要求也不用急，软件也有对应的 Mac 版本和 Windows 非 N 卡版本。我还没做成整合包，有需求的请先点赞评论，如果人数多的话我再考虑制作其他硬件下的整合包。
 
 
 # Deep-Live-Cam 与 DeepFaceLive 的比较评测
@@ -12,7 +29,7 @@ Deep-Live-Cam-all-in-one-package
 - 摄像头实时换脸
 - 带人脸清晰化的换脸
 
-还有一个知名的项目叫 **DeepFaceLive**，也是用于实时换脸。巧合的是，我也是 DeepFaceLive 项目的参与者，因此我对这两个同类软件做了个比较评测，分以下几个方面进行对比。
+还有一个知名的项目叫 **DeepFaceLive**，也是用于实时换脸。我碰巧也是 DeepFaceLive 项目的参与者，因此我对这两个同类软件做了个比较评测，分以下几个方面进行对比。
 
 ## 易用度
 
@@ -68,19 +85,6 @@ DFL 在这方面的优化做得比较好，在训练模型时，可以结合 **X
 
 DFL 也能做到这个效果，但对模型训练要求就高了很多，需要拿目标人物大量不同光影角度的素材进行训练。如果训练素材里的光影丰富度不足，就会产生类似面具感的瑕疵，面部的光影和环境会有色差。
 
-## 下载链接
-
-**Windows 环境整合包下载地址：**  
-[下载链接](https://pan.baidu.com/s/1GmFBm3NXDN-rXTbACy74kg?pwd=u98q)  
-**提取码：** u98q
-
-直接解压，双击启动 `.exe` 即可使用。
-
-### 硬件要求
-
-需有支持 CUDA 的 NVIDIA 显卡。
-
-如果硬件不符合要求也不用急，软件也有对应的 Mac 版本和 Windows 非 N 卡版本。我还没做成整合包，有需求的请先点赞评论，如果人数多的话我再考虑制作其他硬件下的整合包。
 
 # Deep-Live-Cam vs. DeepFaceLive: A Comparative Evaluation
 
