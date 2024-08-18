@@ -1,0 +1,14 @@
+1. Before the first use, place the folders  ".insightface" and ".opennsfw2" in "C:\Users\YourUsername" For example, if your computer username is aaa, place these two folders in "C:\Users\aaa"
+
+2. If you encounter an error message related to "Visual Studio C++", please download and install the Visual Studio 2022 runtime environment from the following website:
+https://visualstudio.microsoft.com/zh-hans/visual-cpp-build-tools/
+
+3.The source code of this software is available for viewing, so please use it with confidence. Since it may access the camera, it could be mistakenly flagged by security software.
+
+4. The software is open source and prohibited for illegal use. Any consequences of its use are not the responsibility of the open source author.
+
+1. 第一次使用前，把.insightface和.opennsfw2放到“C:\Users\你的用户名”，例如我电脑用户名是aaa，就把这两个文件夹放到放到 “C:\Users\aaa”
+2. 如果你电脑运行出现类似visual studio C++字样的报错，请到下述网址下载并安装visual studio 2022 runtime环境
+https://visualstudio.microsoft.com/zh-hans/visual-cpp-build-tools/
+3. 本软件源码均可见，请放心使用。因会调用摄像头，可能会被安全软件误杀
+4. 软件开源，禁止用于非法用途，一切使用后果与软件开源作者无关
